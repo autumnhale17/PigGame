@@ -228,13 +228,6 @@ namespace Pig
                     currentPlayer.SetWinner(true);
 
                     gameRunning = false;
-
-                    Console.WriteLine(" ");
-                    Console.WriteLine("===== Play Again? =====");
-                    Console.WriteLine(" ");
-
-                    playAgain = Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine(" ");
                 }
 
                 // A 1 is rolled:
