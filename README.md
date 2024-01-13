@@ -18,5 +18,5 @@ The first player to reach the set winning number of points wins, and the game au
    (   \____/   )                                                                                                                                                          
    /    @__@    \                                                                                                                                                           
   (     (oo)     )                                                                                                                                                          
-   ` - . - .-'                                                                                                                                                                                          
+   ` -.-.-'                                                                                                                                                                                         
 
