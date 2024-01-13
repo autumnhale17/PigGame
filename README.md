@@ -19,7 +19,4 @@ The first player to reach the set winning number of points wins, and the game au
    / @__@ \
   (  (oo)  )
    `-.-~.-'
-    /    \
-  @/      \_
- (/ /    \ \)
-  WW`----'WW");
+
