@@ -15,8 +15,8 @@ Note, the program always starts with player 1, and the first automatic roll on y
 
 The first player to reach the set winning number of points wins, and the game automatically ends.
 
-   (\____/)
-   / @__@ \
-  (  (oo)  )
-   `-.-~.-'
+   (\____/)                                                                                                                                                          
+   / @__@ \                                                                                                                                                           
+  (  (oo)  )                                                                                                                                                          
+   `-.-~.-'                                                                                                                                                                                          
 
